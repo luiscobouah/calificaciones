@@ -1,0 +1,25 @@
+<resources>
+    <!-- String nombres activitys -->
+    <string name="app_name">Calificaciones</string>
+    <string name="activity_nueva_calificacion">Nueva calificación</string>
+    <string name="activity_modificar_calificacion">Editar calificación</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- String acciones -->
+    <string name="action_eliminar_todas">Eliminar todas</string>
+    <string name="action_eliminar_calificacion">Eliminar calificacíon</string>
+    <string name="guardarCalificación">Guardar</string>
+
+    <!-- String formulario -->
+    <string name="titulo_aisgnatura">Aisgnatura</string>
+    <string name="titulo_calificacion">Calificacion</string>
+    <string name="fecha_calificacion">Fecha</string>
+    <string name="anadirCalificación">añadir</string>
+
+    <!-- String mensajes validaciones -->
+    <string name="asignatura_obligatoria">Asignatura obligatoria</string>
+    <string name="calificación_obligatoria">Calificación obligatoria</string>
+    <string name="rango_nota">La nota debe estar 0–10</string>
+    <string name="Fecha_obligatoria">Fecha obligatoria</string>
+
+</resources>
